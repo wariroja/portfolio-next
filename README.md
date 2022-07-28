@@ -1,1 +1,1 @@
-In progress port folio built using Next.js
+In progress portfolio built using Next.js
